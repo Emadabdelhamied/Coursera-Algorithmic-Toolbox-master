@@ -27,7 +27,7 @@ This repository contains all solutions for the course in python [Algorithmic Too
 - [Maximum Number of Prizes (Different Summands)](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/3.6%20different_summands.py)
 - [Maximum Salary (Largest Number)](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/3.7%20largest_number.py)
 
-### Week 3- Greedy Algorithms ([PDF](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/Assignments/week4_divide_and_conquer.pdf))
+### Week 4- Divide and Conquer ([PDF](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/Assignments/week4_divide_and_conquer.pdf))
 - [Binary Search](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/4.1%20binary_search.py)
 - [Majority Element](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/4.2%20majority_element.py)
 - [Sorting](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/4.3%20sorting.py)
