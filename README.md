@@ -35,4 +35,12 @@ This repository contains all solutions for the course in python [Algorithmic Too
 - [Points and Segments](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/4.5%20points_and_segments.py)
 - [Closest](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/4.6%20closest.py)
 
+### Week 5- Dynamic Programming1 ([PDF](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/Assignments/week5_dynamic_programming1.pdf))
+- [Money Change](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/5.1%20change_dp.py)
+- [Primitive Calculator](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/5.2%20primitive_calculator.py)
+- [Edit Distance](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/5.3%20edit_distance.py)
+### Week 6- Dynamic Programming2 ([PDF](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/Assignments/week6_dynamic_programming2.pdf))
+- [Knapsack](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/6.1%20knapsack.py)
+- [Partition3](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/6.2%20partition3.py)
+- [Placing Parentheses](https://github.com/Emadabdelhamied/Coursera-Algorithmic-Toolbox-master/blob/master/assignment%20solutions/6.3%20placing_parentheses.py)
 
